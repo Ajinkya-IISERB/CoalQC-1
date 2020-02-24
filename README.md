@@ -1,4 +1,4 @@
-# coalQC : Quality assessment of genomic datasets for Coalescent inferences.
+# CoalQC : Quality assessment of genomic datasets for Coalescent inferences.
 
 
 <h2> Setting Up the Environment for running the wrapper and scripts. </h2>
